@@ -1,0 +1,15 @@
+C:\Users\45922978810\Desktop\Projeto-exercicio\bin\Debug\net7.0\Projeto-exercicio.exe
+C:\Users\45922978810\Desktop\Projeto-exercicio\bin\Debug\net7.0\Projeto-exercicio.deps.json
+C:\Users\45922978810\Desktop\Projeto-exercicio\bin\Debug\net7.0\Projeto-exercicio.runtimeconfig.json
+C:\Users\45922978810\Desktop\Projeto-exercicio\bin\Debug\net7.0\Projeto-exercicio.dll
+C:\Users\45922978810\Desktop\Projeto-exercicio\bin\Debug\net7.0\Projeto-exercicio.pdb
+C:\Users\45922978810\Desktop\Projeto-exercicio\obj\Debug\net7.0\Projeto-exercicio.csproj.AssemblyReference.cache
+C:\Users\45922978810\Desktop\Projeto-exercicio\obj\Debug\net7.0\Projeto-exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45922978810\Desktop\Projeto-exercicio\obj\Debug\net7.0\Projeto-exercicio.AssemblyInfoInputs.cache
+C:\Users\45922978810\Desktop\Projeto-exercicio\obj\Debug\net7.0\Projeto-exercicio.AssemblyInfo.cs
+C:\Users\45922978810\Desktop\Projeto-exercicio\obj\Debug\net7.0\Projeto-exercicio.csproj.CoreCompileInputs.cache
+C:\Users\45922978810\Desktop\Projeto-exercicio\obj\Debug\net7.0\Projeto-exercicio.dll
+C:\Users\45922978810\Desktop\Projeto-exercicio\obj\Debug\net7.0\refint\Projeto-exercicio.dll
+C:\Users\45922978810\Desktop\Projeto-exercicio\obj\Debug\net7.0\Projeto-exercicio.pdb
+C:\Users\45922978810\Desktop\Projeto-exercicio\obj\Debug\net7.0\Projeto-exercicio.genruntimeconfig.cache
+C:\Users\45922978810\Desktop\Projeto-exercicio\obj\Debug\net7.0\ref\Projeto-exercicio.dll
