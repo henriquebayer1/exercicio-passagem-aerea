@@ -48,7 +48,13 @@ strdata [i] = Console.ReadLine();
 
 
 // Antes de entrar no sistema faça um esquema do qual o usuário só possa acessar o menu se a senha for igual à 123456.
+ static void validacaoDeUsuario()
+{
 bool senhafalsa = true;
+
+Console.WriteLine($"Antes de entrar em nosso sistema, confirme que e voce viajante:");
+Console.WriteLine($"");
+
 
 Console.WriteLine($"Digite seu nome de usuario:");
 string user = Console.ReadLine();
@@ -63,11 +69,61 @@ senha = Console.ReadLine();
 if(senha == "123456")
 {senhafalsa = false;}
 
+
 }
 while (senhafalsa);
 
+Console.WriteLine($"Seja bem vindo {user}");
+
+}
+
+static void listaDePassagens()
+{
+Console.WriteLine(@$"Lista de passagens disponiveis:
+
+1 - Japao
+2 - Italia
+3 - EUA
+4 - China
+5 - Argentina
+");
+}
 
 
+
+
+validacaoDeUsuario();
+
+
+Console.WriteLine(@$"Bem vindo ao sistema de passagens aereas viajante!
+
+Selecione uma das opcoes abaixo para continuar:
+
+        ------------------------------------------
+        | 1 - Cadastrar passagem (5 viajantes)  |
+        | 2 - Listar Passagens                  |
+        | 0 - Sair                              |
+        ------------------------------------------
+");
+
+Console.WriteLine($"Digite '1' , '2' ou '0' para continuar:");
+Console.WriteLine($"");
+
+char opcoes = char.Parse(Console.ReadLine());
+
+switch (opcoes)
+{
+    case '1':
+    formularioViagem();
+        break;
+        case '2':
+    listaDePassagens();
+    break;
+    default:
+    Console.WriteLine($"Saida autorizada, ate a proxima viajante;)");
+    
+        break;
+}
 
 
 
